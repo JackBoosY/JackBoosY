@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@master
         with:
           # 使用您刚才配置的 Token
           token: ${{ secrets.METRICS_TOKEN }}
