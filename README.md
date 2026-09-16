@@ -1,24 +1,13 @@
 ### Hi there 👋
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JackBoosY&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="JackBoosY's GitHub Trophies" />
+  <!-- 由 GitHub Actions 自动生成的 Metrics 统计图与成就勋章 -->
+  <img src="github-metrics.svg" alt="JackBoosY's GitHub Metrics & Achievements" width="800" />
 </div>
 
+<!-- 
+你可以保留原来的 Streak Stats 或者其他统计卡片，作为后备或补充：
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JackBoosY&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="JackBoosY's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackBoosY&layout=compact&theme=radical&hide_border=true" alt="JackBoosY's Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JackBoosY&theme=radical&hide_border=true" alt="JackBoosY's GitHub Streak" />
 </div>
-<!--
-**JackBoosY/JackBoosY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
